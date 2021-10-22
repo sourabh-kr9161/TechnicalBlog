@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/TechBlog1/web/login_page.jsp</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/RegisterServlet.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/entities/CommentDetails.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/E:/TechBlog1/web/show_blog_page.jsp</file>
+            <file>file:/E:/TechBlog1/web/normal_navbar.jsp</file>
+            <file>file:/E:/TechBlog1/src/java/mysqlconnection/Dbconnectiondata.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/entities/Post.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/AddPostServlet.java</file>
+            <file>file:/E:/TechBlog1/web/cupdedit.jsp</file>
+            <file>file:/E:/TechBlog1/web/img/wonder.jpg.jpg</file>
+            <file>file:/E:/TechBlog1/src/java/mysqlconnection/Helper.java</file>
+            <file>file:/E:/TechBlog1/web/loadpostforedit.jsp</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/entities/Category.java</file>
+            <file>file:/E:/TechBlog1/web/load_posts.jsp</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/LoginServlet.java</file>
+            <file>file:/E:/TechBlog1/web/js/myjs.js</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/LogoutServlet.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/dao/LikeDao.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/deletpostServlet.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/EditServlet.java</file>
+            <file>file:/E:/TechBlog1/web/img/background.png</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/dao/CommentDao.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/editforpostServlet.java</file>
+            <file>file:/E:/TechBlog1/web/WEB-INF/web.xml</file>
+            <file>file:/E:/TechBlog1/web/pics/default.png</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/LikeServlet.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/E:/TechBlog1/web/error_page.jsp</file>
+            <file>file:/E:/TechBlog1/web/Profile.jsp</file>
+            <file>file:/E:/TechBlog1/web/editpost_page.jsp</file>
+            <file>file:/E:/TechBlog1/web/index.jsp</file>
+            <file>file:/E:/TechBlog1/src/java/mysqlconnection/connectionprovider.java</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/entities/Message.java</file>
+            <file>file:/E:/TechBlog1/web/register_page.jsp</file>
+            <file>file:/E:/TechBlog1/web/css/mystyle.css</file>
+            <file>file:/E:/TechBlog1/src/java/com/tech/blog/servlet/AddComment.java</file>
+            <file>file:/E:/TechBlog1/web/new.jsp</file>
+        </group>
+    </open-files>
+</project-private>
